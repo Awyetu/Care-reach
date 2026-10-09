@@ -1,0 +1,6 @@
+{
+  "name": "CareReach Nigeria",
+  "description": "Community-driven platform for discovering and sharing verified free medical outreaches and healthcare services across Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
